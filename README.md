@@ -1,18 +1,20 @@
-# ROPUGE BATORU
-### A terminal based RPG made in Python
+# ⚔️ ROPUGE BATORU
 
-## Introduction
-It's just a little project I made for fun, using only Python and the terminal. The code can be a bit better and more optimized, but I think it's okay for now.
+<div align="center">
 
-## How it works ?
-The goal is simply to get the best score. You first choose a character which will have to survive as many waves of ennemies as possible. If he gets enough XP by killing them, he can level up and get an upgrade on one of his stat, and if his level is a multiple of 5, you can add another character to your team. The more wave, the stronger the ennemies get, and if you are good enough, you can fight Neramawa at wave 100 !
+![Python](https://img.shields.io/badge/Python-254c6e.svg?logo=python&logoColor=ffffff)
 
-## How to launch it ? 
-### Windows
-Download the .exe file. Then, just double-click it.
-### MacOS
-You can't, I don't have a mac, and creating a virtual machine of this OS is hard, thanks Apple.
-### Linux
-Download the .elf file. Then, open the terminal on the same directory as the file, and open it by just typing the name of the file (e.g. ./ROPUGE BATORU).
+![ROPUGE BATORU Logo](./ext_res/logo.png)
 
-![ROPUGE BATORU's logo](./ext_res/logo.png)
+</div>
+
+> *A terminal based RPG made in Python!*
+
+## 🛠️ Features
+
+The goal is to get the highest score possible. When you launch the game, you first have to choose your starting character, who needs to survive as many waves of enemies as possible. If he gets enough XP, he'll level up and get an upgrade on one of his statistic. If his level is a multiple of 5, you'll be able to add another character on your team. The more wave, the stronger the enemies get, and if you are good enough, you will be able to fight Neramawa at wave 100 !
+
+
+## 📄 License
+
+Everything is explained in [LICENSE](./LICENSE).

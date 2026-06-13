@@ -2,6 +2,6 @@ __pycache__/
 _api/
 .idea/
 .venv/
-.releases/
+releases/
 export_config_linux.json
 export_config_windows.json
